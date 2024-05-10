@@ -1,0 +1,3 @@
+﻿  PhieuTra.cpp
+D:\Learning\Nhap mon lap trinh\LibraryManagement_Final\PhieuTra.cpp(135,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  LibraryManagement_Final.vcxproj -> D:\Learning\Nhap mon lap trinh\LibraryManagement_Final\x64\Debug\LibraryManagement_Final.exe
